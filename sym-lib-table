@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name DishesEPD-rescue)(type Legacy)(uri ${KIPRJMOD}/DishesEPD-rescue.lib)(options "")(descr ""))
-)
